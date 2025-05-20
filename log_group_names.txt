@@ -1,0 +1,3 @@
+/aws/lambda/ExampleLogGroup
+/aws/lambda/ExampleLogGroup2
+/aws/lambda/ExampleLogGroup3
